@@ -6,9 +6,9 @@ Here's a template for a bi-weekly status report based on your requirements. You 
 ---
 
 **Bi-Weekly Status Report**  
-**Name:** [Your Name]  
-**Project Title:** [Project Title]  
-**Score:** [Score]
+**Name:** Andrew Swayze
+**Project Title:** LinkUp - Community Board App
+**Score:** 100
 
 ---
 
