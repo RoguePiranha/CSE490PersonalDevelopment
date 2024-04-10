@@ -1,0 +1,104 @@
+Observation Sessions #33
+#57 Identify Existing Community Platforms to Observe
+
+*	Reddit
+*	Facebook
+*	Quora
+
+#58 Identify Observation Methods
+
+Are there any that have already been done that we can reference?
+*	Interviews
+*	Analytics
+*	Heatmaps
+*	Clickmaps
+*	Session Recordings
+*	Eye Tracking
+
+#59 Observe Existing Community Platforms and Compile Findings
+
+General Design Patterns
+*	https://www.nomensa.com/blog/design-patterns-social-media/
+o	This site talks about what social media is and how it's designed. One thing of note that 
+they say is "to determine what kind of community you wish to encourage. Certain kinds 
+of patterns will help promote certain kinds of behaviour."
+o	We need to determine what we want our platform to be and design based around that 
+idea.
+*	https://decode.agency/article/what-is-mvp-in-mobile-app-development/
+o	This article addresses an MVP (minimum viable product) in the mobile app development 
+process. Many major apps started as MVP's in order to test the waters. It's a quick way 
+to get a functional product out with the features in place that will be present in the 
+more developed product. The benefit to this method is that it allows a quick way to get 
+user feedback on a new product or new features so you can refine your ideas.
+Facebook
+*	https://www.sciencedirect.com/science/article/pii/S2444569X22000063
+o	This article employed a heatmap based on eye tracking data that they gathered. It 
+largely focuses on how users are affected by the content that they see, but also dives 
+into how "to optimize your Facebook page for optimal attention and awareness of 
+posting." Which I believe will be useful in determining the layout and design of our own 
+platform.
+*	https://medium.com/swlh/an-introduction-to-facebooks-system-architecture-47cfcf597101
+o	This article talks about the details of Facebook's system architecture.
+*	https://www.hongkiat.com/blog/analysis-facebook-redesign-interface-concept/
+o	This site puts forward multiple design options for Facebook in order to help UX along 
+with explanations for why those designs work.
+*	https://arstechnica.com/gadgets/2020/03/facebooks-new-design-turns-your-pc-into-an-
+enormous-phone/
+o	Talks about the design of the new Facebook desktop app
+*	https://uxdesign.cc/analyzing-facebooks-major-redesign-from-website-to-app-53ad2f88b0de
+o	In 2019, Dark mode was implemented and seems to be an important feature to users 
+across every app I've looked at.
+o	Back button was also implemented with dark mode and is an important feature for iOS 
+users who don't natively have a back button on their devices.
+Reddit
+*	Interview: 
+https://www.reddit.com/r/help/comments/wzq4rl/what_is_reddit_used_for_i_thought_it_was_
+a/
+o	A user on Reddit asked how others are using the app. Many users commented that they 
+use it as a forum where they chat with others or to follow communities for hobbies or 
+things that they're interested in. 
+o	There is a clear separation on Reddit for different subjects and a homepage for each 
+user, which they can curate themselves by joining different communities, that shows 
+recommendations, new, or popular content.
+o	By having separate sections of the site dedicated to the various topics and broadly 
+covering everything, they are able to avoid the downfalls that many online communities 
+face, which is covered in the "How do they fit together?" section of this website:
+?	https://www.nomensa.com/blog/design-patterns-social-media/
+o	Reddit also allows for direct messages, which may be something that we wish to 
+implement.
+o	Another feature that seems important to Redditors is the anonymity of the app. They 
+are able to post without worrying about what they say coming back to them, which 
+allows for more open communication, but definitely leads to some issues with racism 
+and sexism.
+*	https://bootcamp.uxdesign.cc/a-reddit-ux-case-study-89f41bca6a5d
+o	Case study going over the UX of the Reddit mobile app and comparing it to its most 
+popular competitors.
+o	"Efficient use of whitespace in the UI can help get the message across quickly and 
+improve user engagement. However, if used poorly, whitespace can make it harder for 
+users to find what they need, too much whitespace can break readability. It can also 
+make a page look cluttered and lazy, which can distract users from their purpose."
+o	This site also shows potential redesigns for the Reddit app to help improve user 
+engagement and experience that may be useful for us.
+Quora
+*	https://uxplanet.org/redesigning-the-quora-app-a-ui-case-study-c680ffe04915
+o	Goes over the UX of the Quora app
+o	Suggests multiple improvements such as:
+?	Consistent use of colors throughout the site to make the user associate that 
+color with the app
+?	Simplified UI, removed gestures and added navigation to the bottom
+*	https://bootcamp.uxdesign.cc/quora-ux-case-study-13dc3553fc36
+o	All questions fall under the same domain and are separated by tags, where competitors 
+like Stack Overflow use different domains to cover those various topics.
+o	Quora allows option to edit posts, as do all the other Community Boards I've seen.
+o	As with all the others, allows for commenting on posts made by others and has upvote 
+system in place.
+o	Problems with Quora UI:
+?	Lack of Visual hierarchy and lack of distinction between posts and ads
+?	The current information hierarchy shows the name of the person who answered 
+the question first and then the post
+?	Difficulty with accessing Topics and Sessions
+?	Lack of accounts visibility
+?	Inconsistent shapes of icons
+o	 
+?	This is an example of a prototype layout for Quora. A fairly similar design seems 
+to be exactly what we're looking for.
