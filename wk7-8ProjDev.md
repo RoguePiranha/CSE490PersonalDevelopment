@@ -1,6 +1,5 @@
 ### Bi-Weekly Status Report
 
-
 Here's a template for a bi-weekly status report based on your requirements. You can use this as a text file to fill in your progress, plans, and challenges. Replace placeholders with your specific data when preparing your actual report.
 
 ---
